@@ -41,5 +41,5 @@
 
 ## 📫 Contact
 
-Gmail : Theld2403@gmail.com
-GitHub : https://github.com/SoHyun1002
+- Gmail : Theld2403@gmail.com
+- GitHub : https://github.com/SoHyun1002
