@@ -41,5 +41,5 @@
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Theld2403@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SoHyun1002)
+Gmail : Theld2403@gmail.com
+GitHub : https://github.com/SoHyun1002
