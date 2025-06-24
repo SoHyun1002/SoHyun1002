@@ -1,4 +1,4 @@
-# 👩‍💻 Sohyun Choi | 소현 최
+# 👩‍💻 Sohyun Choi
 
 ## 🌐 Web Developer
 - MSA(마이크로서비스 아키텍처) 기반 실전 프로젝트 경험
