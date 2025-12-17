@@ -22,7 +22,7 @@
 - **사내 핵심 시스템(Tracker, ERP) 개발 및 기여**
 - 내부 업무용 웹 서비스의 개발, 유지보수 및 운영
 - Local Nginx 기반 개발/운영 환경 구성
-- MariaDB 연동 및 데이터베이스 활용
+- MariaDB 연동 및 데이터베이스 활용 + Sequelize
 - Jenkins 기반 CI/CD 파이프라인 구축 및 배포 자동화
 
 ---
